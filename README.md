@@ -1,13 +1,13 @@
 # JmoPlugin<br>
 ## The Most SIMPLE Plugin Known To Man.<br>
-adds some funni lil commands to make minecraft better and more immersive!
-***(check releases for more info this is just a light documentation..)***
+adds some funni lil commands to make minecraft better and more immersive!<br>
+***(check releases for more info this is just a light documentation..)*** <br>
 
 > actual documentation - by Jmo_fr with ♥️
 # JmoPlugin
 
 A feature-rich Spigot plugin for Minecraft 1.20.4 that adds immersive commands, custom weapons, magical creatures, and an advanced item editor to enhance your server experience.
-
+> NOTEE::::: for some reasonnn it works for 1.21.11 umm idk why but yeah...., pretty sure it works for most versions 1.21+
 ## ✨ Features
 
 - **Custom Swords** - 15 unique swords with special combat abilities
@@ -51,6 +51,7 @@ Each sword has unique combat abilities when hitting players:
 13. **Starfall** - 30% chance to call lightning
 14. **Doom Blade** - Applies multiple debuffs (Wither, Slowness, Weakness)
 15. **Kingslayer** - Extra damage against other players
+16. **Meow** - Instant kills any player/entity within a 30 billion block circle (basically whole world) from 1 strike. <br> 
 
 ## 🐮 Magical Creatures
 
@@ -149,3 +150,7 @@ cd JmoPlugin
 mvn clean package
 
 # JAR will be in target/ directory
+
+
+# yo how do i undo this? im stuck typing in this box vro ```
+that didnt work uhhh ''' ?? nope AYOOOOOOOO HELPPPPPPPPPPP
